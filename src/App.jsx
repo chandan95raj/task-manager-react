@@ -2,7 +2,7 @@ const App = () => {
   return (
     <>
       <h1 class="text-3xl font-bold text-center">
-        Hello world!
+        Hello world! Task Manager
       </h1>
     </>
   )
